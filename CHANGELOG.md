@@ -19,6 +19,10 @@ The format is based on [keep a changelog](http://keepachangelog.com) and this pr
 - Correct return format of JavaScript runtime account export function.
 - Add user id to JS runtime wallet operations returned results.
 
+## [3.13.2] - 2022-10-07
+### Fixed
+- Update x crypto module
+
 ## [3.13.1] - 2022-08-18
 ### Fixed
 - Push new tag for fix to Docker image releases.
